@@ -53,5 +53,5 @@ else:
     # Si aún quedan preguntas
     if st.session_state.indice < len(items):
         item = items[st.session_state.indice]
-        st.subheader(f"Pregunta {st.session
+        st.subheader(f"Pregunta {st.session}
 
