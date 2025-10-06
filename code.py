@@ -2,6 +2,10 @@
 # Dashboard interactivo: Estrés en el Deporte de Alto Rendimiento
 # Autor: [Tu nombre]
 # ---------------------------------------------------------------
+# 📦 Requerimientos (instala antes de ejecutar):
+# pip install streamlit==1.39.0
+# pip install requests==2.32.3
+# ---------------------------------------------------------------
 
 import streamlit as st
 import requests
