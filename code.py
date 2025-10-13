@@ -215,6 +215,7 @@ else:
                     st.session_state.indice += 1
                     st.session_state.respondido = False
                     st.session_state.seleccion = None
+                    st.session_state.rerun ()
                    
     else:
         total = len(items)
