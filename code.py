@@ -20,7 +20,7 @@ st.set_page_config(
 # --- URL DEL ARCHIVO JSON EN GITHUB ---
 # Reemplaza por el enlace RAW de tu archivo items.json
 # Ejemplo: "https://raw.githubusercontent.com/usuario/repositorio/main/items.json"
-URL_JSON = "https://raw.githubusercontent.com/sofiaamata/Estres-en-el-deporte-de-alto-rendimiento/refs/heads/main/item.json"
+URL_JSON = "https://raw.githubusercontent.com/sofiaamata/Estres-en-el-deporte-de-alto-rendimiento/main/item.json"
 
 # --- FUNCIÓN PARA CARGAR LOS DATOS DESDE GITHUB ---
 @st.cache_data
