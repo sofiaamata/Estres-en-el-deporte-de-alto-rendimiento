@@ -211,11 +211,11 @@ else:
                     st.session_state.respondido = True
 
             if st.session_state.respondido:
-            if st.button("Siguiente pregunta ➡️"):
-                st.session_state.indice += 1
-                st.session_state.respondido = False
-                st.session_state.seleccion = None
-                st.experimental_rerun()
+                if st.button("Siguiente pregunta ➡️"):
+                    st.session_state.indice += 1
+                    st.session_state.respondido = False
+                    st.session_state.seleccion = None
+                    st.experimental_rerun()
 
     else:
         total = len(items)
