@@ -1,11 +1,102 @@
-question,option_A,option_B,option_C,correct_answer,justification
-¿Qué es el estrés en el deporte de alto rendimiento?,Un estado permanente de relajación.,Una respuesta física y psicológica ante demandas percibidas como superiores a los recursos del deportista.,Una emoción pasajera sin consecuencias.,option_B,"El estrés surge cuando el deportista siente que las exigencias superan su capacidad de afrontamiento, afectando cuerpo y mente."
-¿Cuál de los siguientes factores puede generar más estrés en deportistas de alto rendimiento?,La práctica recreativa sin competencia.,La presión por obtener resultados y mantener el rendimiento.,El descanso activo entre entrenamientos.,option_B,La exigencia constante de ganar y no cometer errores es una de las principales fuentes de estrés en este nivel.
-¿Qué tipo de estrés puede ayudar al deportista a rendir mejor?,El distrés.,El eustrés.,El estrés crónico.,option_B,"El eustrés es el “estrés positivo”, que motiva, enfoca y mejora el rendimiento sin generar daño."
-¿Cuál de los siguientes síntomas pertenece al estrés negativo o distrés?,Mayor concentración y motivación.,Estado de alerta y energía.,"Ansiedad, irritabilidad y fatiga constante.",option_C,El distrés provoca síntomas físicos y emocionales que afectan el bienestar y el desempeño.
-¿Qué papel juega el entrenador en el manejo del estrés del atleta?,"Ninguno, el deportista debe manejarlo solo.",Es un agente clave al ofrecer apoyo emocional y estrategias de afrontamiento.,Solo debe centrarse en el rendimiento técnico.,option_B,"El entrenador puede ser una figura de apoyo que influye en la motivación, la confianza y el manejo del estrés."
-¿Qué técnica psicológica se utiliza comúnmente para reducir el estrés deportivo?,Ignorar las emociones negativas.,Competir más para “acostumbrarse”.,La relajación progresiva y la visualización.,option_C,Estas técnicas ayudan a controlar la activación fisiológica y preparan mentalmente al atleta para la competencia.
-¿Qué sucede cuando el estrés se mantiene por mucho tiempo sin control?,Mejora el rendimiento a largo plazo.,"Aumenta el riesgo de lesiones, agotamiento y burnout.",No tiene consecuencias si el atleta es disciplinado.,option_B,"El estrés crónico deteriora tanto la salud física como la mental, afectando el rendimiento y la motivación."
-¿Cuál es una fuente interna de estrés para el deportista?,El miedo al fracaso o a decepcionar.,El clima o las condiciones externas.,La logística del viaje a la competencia.,option_A,"Las fuentes internas provienen de pensamientos, emociones o inseguridades del propio atleta."
-¿Qué característica tienen los deportistas con buena tolerancia al estrés?,Son indiferentes ante los resultados.,Evitan las competencias difíciles.,Poseen habilidades de afrontamiento y autoconfianza.,option_C,La autoconfianza y el manejo emocional permiten afrontar la presión sin perder el control ni la motivación.
-¿Por qué el apoyo psicológico es importante en el deporte de alto rendimiento?,Porque sustituye el entrenamiento físico.,Porque elimina completamente el estrés.,"Porque enseña a manejar el estrés, mejorar la concentración y mantener el equilibrio emocional.",option_C,"El acompañamiento psicológico optimiza el rendimiento mental y emocional, fortaleciendo la preparación integral del atleta."
+[
+  {
+    "pregunta": "¿Qué es el estrés en el deporte de alto rendimiento?",
+    "opciones": [
+      "Una respuesta física y psicológica ante demandas percibidas como superiores a los recursos del deportista",
+      "Una emoción pasajera sin consecuencias",
+      "Una actitud negativa hacia el entrenamiento"
+    ],
+    "correcta": 0,
+    "justificacion": "El estrés en el deporte es una respuesta adaptativa del cuerpo y la mente ante demandas o presiones que el deportista percibe como excesivas."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes tipos de estrés puede ser positivo y favorecer el rendimiento?",
+    "opciones": [
+      "Eustrés",
+      "Distrés",
+      "Estrés crónico"
+    ],
+    "correcta": 0,
+    "justificacion": "El eustrés es un tipo de estrés positivo que puede aumentar la motivación, concentración y energía del deportista."
+  },
+  {
+    "pregunta": "¿Qué sucede cuando el deportista experimenta distrés?",
+    "opciones": [
+      "Aumenta su nivel de motivación y confianza",
+      "Disminuye el rendimiento y se presentan síntomas físicos y emocionales negativos",
+      "Se mejora la coordinación y la precisión motora"
+    ],
+    "correcta": 1,
+    "justificacion": "El distrés implica un nivel de presión excesivo que sobrepasa la capacidad de afrontamiento del deportista, generando efectos negativos."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores puede incrementar el nivel de estrés en el deporte?",
+    "opciones": [
+      "Una comunicación positiva con el entrenador",
+      "La falta de descanso y exceso de presión competitiva",
+      "Una buena planificación de entrenamiento"
+    ],
+    "correcta": 1,
+    "justificacion": "El exceso de carga física o psicológica sin suficiente recuperación puede aumentar el nivel de estrés en los deportistas."
+  },
+  {
+    "pregunta": "¿Qué técnica psicológica ayuda a manejar el estrés deportivo?",
+    "opciones": [
+      "Visualización y respiración controlada",
+      "Aislarse completamente del equipo",
+      "Ignorar las emociones negativas"
+    ],
+    "correcta": 0,
+    "justificacion": "Las técnicas de relajación, respiración y visualización ayudan a reducir la tensión y mejorar la concentración del deportista."
+  },
+  {
+    "pregunta": "¿Qué papel juega el entrenador en la gestión del estrés de los atletas?",
+    "opciones": [
+      "Debe presionar al máximo al atleta para obtener resultados",
+      "Es un facilitador del bienestar emocional y la motivación del deportista",
+      "No tiene relación con el manejo del estrés"
+    ],
+    "correcta": 1,
+    "justificacion": "El entrenador influye directamente en el clima emocional del deportista, por lo que su apoyo es clave para manejar el estrés."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes síntomas puede indicar la presencia de estrés elevado?",
+    "opciones": [
+      "Sueño reparador y relajación constante",
+      "Tensión muscular, irritabilidad y problemas de concentración",
+      "Aumento de la motivación y confianza"
+    ],
+    "correcta": 1,
+    "justificacion": "El estrés elevado suele manifestarse con síntomas físicos (tensión muscular) y emocionales (irritabilidad, dificultad para concentrarse)."
+  },
+  {
+    "pregunta": "¿Qué relación existe entre el estrés y el rendimiento deportivo?",
+    "opciones": [
+      "El estrés siempre disminuye el rendimiento",
+      "El estrés puede mejorar o perjudicar el rendimiento según su intensidad y manejo",
+      "El estrés no influye en el rendimiento"
+    ],
+    "correcta": 1,
+    "justificacion": "El estrés tiene una relación curvilínea con el rendimiento: un nivel moderado puede potenciarlo, pero el exceso lo deteriora."
+  },
+  {
+    "pregunta": "¿Cómo puede un deportista prevenir el estrés excesivo?",
+    "opciones": [
+      "Estableciendo rutinas de descanso y técnicas de afrontamiento",
+      "Entrenando sin pausas para mejorar su resistencia mental",
+      "Evitando cualquier tipo de competencia"
+    ],
+    "correcta": 0,
+    "justificacion": "El equilibrio entre entrenamiento, descanso y estrategias psicológicas es esencial para prevenir el estrés excesivo."
+  },
+  {
+    "pregunta": "¿Qué componente emocional está más asociado al estrés competitivo?",
+    "opciones": [
+      "La alegría",
+      "La ansiedad",
+      "La indiferencia"
+    ],
+    "correcta": 1,
+    "justificacion": "La ansiedad competitiva es una respuesta emocional común al estrés, especialmente en situaciones de evaluación o competencia."
+  }
+]
