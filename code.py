@@ -237,4 +237,4 @@ else:
             st.session_state.indice = 0
             st.session_state.puntaje = 0
             st.session_state.respondido = False
-            st.experimental_rerun()
+            st.rerun()
